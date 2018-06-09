@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527515816 source:g:\code\code\robot\main.cpp
+	<iostream>
+	<map>
+	<set>
+	<stdlib.h>
+	<stack>
+	<list>
+	<fstream>
+
